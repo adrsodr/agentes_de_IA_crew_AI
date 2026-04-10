@@ -1,0 +1,4 @@
+crewAI
+crewAI-tools
+langchain 
+openai
